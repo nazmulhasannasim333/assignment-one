@@ -23,7 +23,7 @@
   margin-bottom: 23px;
 }
 .banner-description {
-  color: #444343;
+  color: #696868;
   margin-bottom: 30px;
 }
 .primary-btn {
@@ -55,7 +55,7 @@ main {
   margin-bottom: 25px;
 }
 .failures-description {
-  color: #444343;
+  color: #696868;
   margin-bottom: 24px;
 }
 .failures-text ul {
@@ -63,6 +63,7 @@ main {
 }
 .failures-text ul li {
   margin-bottom: 13px;
+  color: #696868;
 }
 .failures-text ul li i {
   color: #1cff45;
@@ -124,6 +125,34 @@ main {
   border: 0;
   border-radius: 5px;
 }
+/* Find us styles */
+.find-section {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  width: 100%;
+  background: #ffffff;
+  margin-top: 80px;
+}
+.social-title {
+  text-align: center;
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 15px;
+  
+}
+.social-icons {
+  text-align: center;
+}
+.social-icons i {
+  width: 60px;
+  font-size: 68px;
+  margin: 50px 12px;
+  padding: 15px 20px 15px 15px;
+  background: #f2f0f0;
+  border-radius: 50%;
+  text-align: center;
+}
 /* Footer section styles */
 .footer-section {
   background-color: #000;
@@ -146,9 +175,9 @@ main {
   color: #fff;
   margin-right: 500px;
   margin-bottom: 15px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
-.future-item a{
+.future-item a {
   text-decoration: none;
   padding-right: 10px;
 }
